@@ -1,5 +1,7 @@
 # Getting Started with Drone Simulator
 
+![Screenshot from 2023-02-16 14-56-48](https://user-images.githubusercontent.com/48383306/219324180-7c30cf74-6870-4726-b4f7-747c7fdde68b.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
