@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Drone Simulator
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -29,7 +29,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Steps to follow to run the project:
+## Steps
+
+Follow these steps for running the project
 
 1) Create .env file to root directory and add env variables.
 2) Run npm start command to start the server.
